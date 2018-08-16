@@ -1,0 +1,60 @@
+/*for all style
+*/
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font:14px/24px '微软雅黑';
+}
+.wp{
+	width: 960px;
+	margin:0 auto;
+    }
+.z{float:left;}
+.y{float:right;}  
+.cl{clear:both;}  
+.mr_0{margin:0;}
+
+.top{
+	width:100%;
+	height: 24px;
+	line-height: 24px;
+	background-color: #303030;
+	color:#d8d8d8;
+}
+.top span{
+	margin-right:15px;
+}
+.top span.mr_0{
+	margin:0;
+}
+.top a{
+	color:#d8d8d8;
+	text-decoration:none:;
+}
+.top a:hover{
+	color:#f60;
+}
+
+/* search */
+.search{
+	width: 350px;
+	height: 41px;
+}
+.search td{
+	height: 41px;
+
+}
+.s_l {
+	width: 6px;
+	backgroud:url("../images/s_z.jpg") no-repeat;
+}
+.s_c {
+	width: 240px;
+	backgroud:url("../images/s_c.jpg") repeat-x;
+}
+.s_r {
+	width: 78px;
+	backgroud:url("../images/s_r.jpg") no-repeat;
+}
